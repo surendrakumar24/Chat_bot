@@ -1,5 +1,5 @@
 # Chat_bot
-Chat_bot for restorant search for zomato
+Chat_bot for restaurant search for Zomato
 # Prerequisites
 -Python (requires Python 3.6.0 or higher)
 -Visual Studio
